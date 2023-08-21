@@ -1,5 +1,5 @@
 # ultise docker created docker file
-FROM python:3.9.17-slim
+FROM python:3.9.17
 
 # initalise working directory
 WORKDIR /usr/src/app
